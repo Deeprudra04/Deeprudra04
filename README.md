@@ -1,6 +1,6 @@
 <!-- ✨ ENHANCED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Deep+Rudra;Robotics+%26+AI+Enthusiast;Electronics+and+Communication+Engineer;Embedded+and+Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Deep+Rudra;Robotics+%26+AI+Enthusiast;Electronics+and+Communication+Engineer;VLSI+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
