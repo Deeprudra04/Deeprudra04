@@ -27,11 +27,11 @@ module DeepRudra (
     parameter ELECTRONICS = 8'b11111111;
     parameter AI_ML = 8'b11111111;
     parameter ROBOTICS = 8'b11111111;
-    parameter COMPUTER_VISION = 8'b11111111;
+    parameter RTL_GDS = 8'b11111111;
     
     // Current Focus Areas
     parameter ROS2 = 8'b11111111;
-    parameter QUANTUM_COMPUTING = 8'b11111111;
+    parameter DIGITAL_DESIGN = 8'b11111111;
     parameter AUTONOMOUS_SYSTEMS = 8'b11111111;
     
     always @(*) begin
