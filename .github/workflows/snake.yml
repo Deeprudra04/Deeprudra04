@@ -1,33 +1,36 @@
 name: Generate Snake Contribution Grid
 
+# Run schedule
 on:
   schedule:
-    # Runs at 12:00 AM and 12:00 PM UTC every day
-    - cron: "0 0,12 * * *"
-  workflow_dispatch:
+    - cron: "0 0,12 * * *"   # Every day at 00:00 and 12:00 UTC
+  workflow_dispatch:           # Manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      # Step 1: Checks out your repository code
+      # Step 1: Checkout repository
       - uses: actions/checkout@v4
 
-      # Step 2: Runs the snake generation tool
+      # Step 2: Generate GitHub Snake SVGs
       - uses: Platane/snk@v3
-        id: snake-gif
+        id: snake
         with:
-          github_user_name: deeprudra04 # Your GitHub username
+          github_user_name: deeprudra04       # <-- Your GitHub username
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg
+          palette: github-dark               # Dark mode palette
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Step 3: Pushes the generated SVG files back to the repository
+
+      # Step 3: Push generated files to 'output' branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output # Creates a new branch called 'output' to store the generated files
+          target_branch: output
           build_dir: dist
+          commit_message: "Update GitHub Snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
