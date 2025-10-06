@@ -39,7 +39,6 @@ module DeepRudra (
             innovation <= 1'b1;
         end
     end
-    
     // Circuits + Code + Creativity = Intelligent Machines! 
 endmodule
 ```
