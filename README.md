@@ -12,7 +12,7 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 About Me
+### About Me
 ```verilog
 module DeepRudra (
     input wire passion,
@@ -20,7 +20,6 @@ module DeepRudra (
     output reg [15:0] projects,
     output reg innovation
 );
-    
     // Education: B.Tech ECE - KGEC (2023-Present)
     
     // Core Competencies
@@ -47,12 +46,12 @@ endmodule
 
 <td width="50%">
 
-### 📊 GitHub Activity
+### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deeprudra04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FFFF" height="145"/>
-</p>
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeprudra04&theme=tokyonight&hide_border=true&ring=00FFFF&side=00FFFF" height="145"/>
+</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=deeprudra04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FFFF" height="145"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeprudra04&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&title_color=00FFFF" height="145" />
@@ -64,7 +63,7 @@ endmodule
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -95,29 +94,29 @@ endmodule
 
 ---
 
-## 🚀 Projects & Professional Journey
+## Projects & Professional Journey
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏆 Featured Projects
+### Featured Projects
 <small>
 
 | **Project** | **Tech** | **Impact** |
 |-------------|----------|------------|
 | 🛰 **ISRO Mars Drone** | Pixhawk, Raspberry Pi | 90%+ stability |
-| 🤖 **e-Yantra Warehouse** | ROS2, CRSF | Millimeter precision |
-| 🔐 **Smart Security** | ESP32-CAM, Flask | Real-time monitoring |
-| ✏️ **Air Canvas** | OpenCV, Python | Real-time tracking |
-| ⚡ **FPGA Design** | Verilog, Xilinx | Hardware optimization |
+|  **e-Yantra Warehouse** | ROS2, CRSF | Millimeter precision |
+|  **Smart Security** | ESP32-CAM, Flask | Real-time monitoring |
+|  **Air Canvas** | OpenCV, Python | Real-time tracking |
+|  **FPGA Design** | Verilog, Xilinx | Hardware optimization |
 
 </small>
 
 </td>
 <td width="50%">
 
-### 💼 Work Experience & Achievements
+### Work Experience & Achievements
 <small>
 
 | **Organization** | **Role** | **Duration** |
@@ -125,7 +124,7 @@ endmodule
 | **KGEC Robotics Society** | Member (Former Intern) | Mar 2024 – Present |
 | **ADAOVI Technology** | AI/ML Intern | Jan 2024 – Mar 2024 |
 
-#### 🏆 Certifications & Learning
+#### Certifications & Learning
 - **Quantum Computing** - CDAC & IIT Roorkee
 - **IBM Skills Build** - ML/DL/NLP
 - **TensorFlow, Scikit-learn** - ADAOVI
