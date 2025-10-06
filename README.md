@@ -9,16 +9,23 @@
 
 ---
 
-## 🤖 About Me
-🎓 **B.Tech in ECE** from *Kalyani Government Engineering College* (2023–Present) | **CGPA: 7.96**  
+## 🤖 About Me & Tech Stack
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 About Me
+🎓 **B.Tech in ECE** from *Kalyani Government Engineering College* (2023–Present)  
 🛰 **Robotics + AI Engineer** passionate about drones, automation, and embedded intelligence  
 🧠 Skilled in **Electronics, AI/ML, Computer Vision, and IoT Systems**  
 🚀 Currently exploring **ROS2, Quantum Computing, and Autonomous Systems**  
-⚡ Motto: *Turning circuits, code, and creativity into intelligent machines!*  
+⚡ Motto: *Turning circuits, code, and creativity into intelligent machines!*
 
----
+</td>
+<td width="50%">
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -44,12 +51,13 @@
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Key Projects & Achievements
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="200" />
-</p>
 
 | 🏆 **Project** | 🛠️ **Tech Stack** | 📊 **Impact** |
 |----------------|-------------------|---------------|
@@ -70,12 +78,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeprudra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-## 🎓 Education & Experience
-| 🏫 **Education** | 🏢 **Experience** | 🏆 **Certifications** |
-|------------------|-------------------|----------------------|
-| **B.Tech ECE** - KGEC (2023-Present) | **KGEC Robotics Society** - Member | **Quantum Computing** - CDAC & IIT Roorkee |
-| **CGPA: 7.96** | **ADAOVI Technology** - AI/ML Intern | **IBM Skills Build** - PBL Program |
-| **Class XII: 94.8%** | **2 IoT Workshops** conducted | **TensorFlow, Scikit-learn** |
+## 💼 Experience
+| 🏢 **Organization** | 📋 **Role** | 📅 **Duration** |
+|---------------------|-------------|-----------------|
+| **KGEC Robotics Society** | Member (Former Intern) | Mar 2024 – Present |
+| **ADAOVI Technology** | AI/ML Intern | Jan 2024 – Mar 2024 |
 
 ---
 
@@ -89,11 +96,6 @@
 ---
 
 <div align="center">
-
-### 🚀 **Current Status**
-![ISRO Challenge](https://img.shields.io/badge/ISRO%20Challenge-2025-orange?style=for-the-badge&logo=rocket)
-![Mars Drone](https://img.shields.io/badge/Mars%20Drone-Development-blue?style=for-the-badge&logo=drone)
-![Robotics](https://img.shields.io/badge/Robotics-Active-green?style=for-the-badge&logo=robot)
 
 ### ⚡ **Fun Fact**
 <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="100">
