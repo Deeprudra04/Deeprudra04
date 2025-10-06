@@ -54,9 +54,9 @@ endmodule
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deeprudra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="80"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeprudra&theme=tokyonight&hide_border=true" height="80"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeprudra&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="80" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deeprudra04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="80"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeprudra04&theme=tokyonight&hide_border=true" height="80"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeprudra04&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="80" />
 </p>
 
 </td>
