@@ -146,8 +146,9 @@ endmodule
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deeprudra04/Deeprudra04/output/github-contribution-grid-snake-dark.svg" alt="Snake contributions dark" width="600"/>
+  <img src="https://raw.githubusercontent.com/deeprudra04/Deeprudra04/output/github-contribution-grid-snake-dark.svg" alt="Snake contributions dark"/>
 </p>
+
 
 
 
